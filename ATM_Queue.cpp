@@ -48,7 +48,6 @@ void solve(int T)
   cout << '\n';
  return;
 } 
-
 signed main()
 {
   // freopen("input.txt","r",stdin);
