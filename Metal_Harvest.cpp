@@ -102,7 +102,6 @@ void solve(int T)
 	cout << "Case #"<<T<<": "<<ans << '\n';
  return;
 } 
-
 signed main()
 {
   // freopen("input.txt","r",stdin);
